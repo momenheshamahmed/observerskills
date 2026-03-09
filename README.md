@@ -1,6 +1,6 @@
 # ◎ Observer Studio — Claude Skills
 
-A collection of Claude.ai skills built by [Observer Studio](https://observerstudio.co), an AI-native design consultancy based in Cairo.
+A collection of Claude.ai skills built by [Observer Studio](https://observer.studio), an AI-native design consultancy based in Cairo.
 
 Each skill is a standalone npm package — install any of them via `npx` in seconds.
 

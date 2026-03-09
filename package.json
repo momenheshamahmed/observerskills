@@ -1,0 +1,20 @@
+{
+  "name": "@observer-studio/observer-skills",
+  "version": "1.0.0",
+  "description": "Observer Studio's collection of Claude.ai skills",
+  "private": true,
+  "workspaces": [
+    "skills/*"
+  ],
+  "scripts": {
+    "package:all": "node scripts/package-all.js",
+    "publish:all": "node scripts/publish-all.js",
+    "list": "node scripts/list-skills.js"
+  },
+  "author": "Observer Studio <hello@observerstudio.co>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/observer-studio/claude-skills.git"
+  }
+}

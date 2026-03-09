@@ -1,0 +1,34 @@
+{
+  "name": "claude-skill-product-discovery",
+  "version": "1.0.0",
+  "description": "Product Discovery & Strategy skill for Claude.ai — built by Observer Studio",
+  "keywords": [
+    "claude",
+    "claude-ai",
+    "skill",
+    "product-discovery",
+    "product-strategy",
+    "ux-research",
+    "mena",
+    "observer-studio"
+  ],
+  "author": "Observer Studio <hello@observerstudio.co>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/observer-studio/claude-skills.git",
+    "directory": "skills/product-discovery-strategy"
+  },
+  "homepage": "https://github.com/observer-studio/claude-skills/tree/main/skills/product-discovery-strategy#readme",
+  "bin": {
+    "claude-skill-product-discovery": "./bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "skill/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
